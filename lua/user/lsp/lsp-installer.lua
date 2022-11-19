@@ -12,10 +12,10 @@ local servers = {
   "bashls",
   "jsonls",
   "yamlls",
-  "vuels",
   "rust_analyzer",
   "texlab",
   "jdtls",
+  "volar"
 }
 
 lsp_installer.setup()
